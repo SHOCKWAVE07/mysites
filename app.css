@@ -1,0 +1,85 @@
+h1 {
+    font-size: 50px;
+    color:rgb(11, 12, 12);
+    text-align: left;
+    height:70px;
+    width:auto;
+    padding: 10px 0 10px 50px;
+    background-color: rgb(00,255,128,0.5);
+    font-family: teko;
+    margin:0;
+}
+p {
+    text-align: center;
+    font-family:Malgun Gothic;
+    font-size:20px;
+    font-weight:bold;
+    color: whitesmoke;
+    padding-top: 20px;
+    margin:0;
+    padding-left: 30px;
+    
+}
+
+.ul1 {
+    float:left;
+    padding-left: 100px;
+    
+}
+.ul2 {
+    float:right;
+    padding-right: 50px;
+    
+}
+li {
+    padding:30px 10px;
+    font-size: 30px;
+    font-family:teko;
+    color:whitesmoke;
+}
+input.one {
+    padding:5px;
+    border-radius: 25px;
+    border-style: solid;
+    width:50px;   
+    font-size:25px;
+    border-color: rgb(00,255,128);
+}
+
+input {
+    padding:5px;
+    border-radius: 25px;
+    border-style: solid;
+    height: 30px;
+    font-size:25px;
+    border-color:rgb(00,255,128);
+    margin-left: 20px;
+}  
+.submit {
+    padding-bottom: 40px;
+    margin-left: 550px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-family: teko;
+    width:150px;
+    height:40px;
+    color:black;
+    font-size:30px ;
+    text-align: center;
+}
+footer p {
+    background-color: rgb(00,255,128,0.5) ;
+    height:50px;
+    text-align: left;
+    padding:20px 0 0 50px;
+    font-family: teko;
+}
+.top-wrapper { 
+    background-color: black;
+    
+
+}
+.submit:hover{
+    background-color: rgb(00,255,128);
+}
+
